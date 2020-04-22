@@ -1,0 +1,13 @@
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.exe
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.deps.json
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.runtimeconfig.json
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.runtimeconfig.dev.json
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.dll
+F:\C#\LFABA2.3.2\LFABA2.3.2\bin\Debug\netcoreapp3.1\LFABA2.3.2.pdb
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.csprojAssemblyReference.cache
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.csproj.CoreCompileInputs.cache
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.AssemblyInfoInputs.cache
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.AssemblyInfo.cs
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.dll
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.pdb
+F:\C#\LFABA2.3.2\LFABA2.3.2\obj\Debug\netcoreapp3.1\LFABA2.3.2.genruntimeconfig.cache
